@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "123456",
+    "database": "selldata",
+    "port": 3306,
+    "deepseek_api_key": "sk-6d8c1ecbd74d41dc94451952040a477d"
+}
